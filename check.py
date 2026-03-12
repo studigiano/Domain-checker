@@ -10,6 +10,8 @@ DOMAINS = [
     "akademie-handel.de"
     "wbs-training.de"
     "wbstraining.de"
+    "michaelmeier.net"
+    "michael-meier.net"
 
 ]
 
