@@ -3,15 +3,15 @@ import os
 
 DOMAINS = [
     "handelsfachwirt.de",
-    "meiermichael.de"
-    "michaelmeier.de"
-    "michael-meier.de"
-    "dihk.de"
-    "akademie-handel.de"
-    "wbs-training.de"
-    "wbstraining.de"
-    "michaelmeier.net"
-    "michael-meier.net"
+    "meiermichael.de",
+    "michaelmeier.de",
+    "michael-meier.de",
+    "dihk.de",
+    "akademie-handel.de",
+    "wbs-training.de",
+    "wbstraining.de",
+    "michaelmeier.net",
+    "michael-meier.net",
 
 ]
 
