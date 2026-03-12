@@ -2,8 +2,15 @@ import requests
 import os
 
 DOMAINS = [
-    "meinedomain.de",
-    "meinedomain.com"
+    "handelsfachwirt.de",
+    "meiermichael.de"
+    "michaelmeier.de"
+    "michael-meier.de"
+    "dihk.de"
+    "akademie-handel.de"
+    "wbs-training.de"
+    "wbstraining.de"
+
 ]
 
 TOKEN = os.environ["TELEGRAM_TOKEN"]
